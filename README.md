@@ -4,6 +4,7 @@ https://scotch.io/tutorials/build-your-first-python-and-django-application
 
 
 #### Activate Env...
+...from hello directory
 
 ```bash
  source env/bin/activate
